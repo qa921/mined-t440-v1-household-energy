@@ -1,5 +1,21 @@
 {
   "title": "Household energy transition",
-  "intro": "Adjust the scenario to compare an indicative baseline and proposed pathway.",
-  "explainer": "Household energy transition: how to read the simulation"
+  "intro": "Adjust an assumption to see how the modeled scenario changes, starting from the baseline conditions.",
+  "visual.aria": "Diagram: baseline conditions lead to an operator assumption, which leads to the projected scenario.",
+  "visual.text": "Baseline conditions → operator assumption → projected scenario",
+  "nav.explainer": "How to read the simulation",
+  "nav.home": "Back to the scenario",
+  "explainer": "Household energy transition: how to read the simulation",
+  "explainer.lead": "The simulation shows one relationship in three steps. The projected scenario is a modeled result, not a measured household outcome.",
+  "step1": "Baseline conditions are the reference conditions used by the simulation.",
+  "step2": "An operator-controlled assumption changes an input to the scenario.",
+  "step3": "The projected scenario is the modeled result of that changed assumption.",
+  "marketLabel.NL": "Netherlands",
+  "marketLabel.BE": "Belgium",
+  "marketLabel.DE": "Germany",
+  "marketLabel.DK": "Denmark",
+  "market.NL": "Example from the Netherlands: household electricity use and tariff choices. This illustrates a scenario, not a bill forecast.",
+  "market.BE": "Example from Belgium: household energy choices. The model does not predict an individual household result.",
+  "market.DE": "Example from Germany: household energy choices. The projected scenario is modeled, not measured.",
+  "market.DK": "Example from Denmark: household energy choices. The projected scenario is modeled, not measured."
 }
