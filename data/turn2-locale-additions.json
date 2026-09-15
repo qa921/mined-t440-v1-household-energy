@@ -1,0 +1,13 @@
+{
+  "fixture": "M-T440-V1",
+  "issued": "2026-09-13",
+  "status": "source additions awaiting UI integration",
+  "supportedMarkets": ["NL", "BE", "DE", "DK"],
+  "marketLabels": {
+    "NL": {"en": "Netherlands", "nl": "Nederland"},
+    "BE": {"en": "Belgium", "nl": "België"},
+    "DE": {"en": "Germany", "nl": "Duitsland"},
+    "DK": {"en": "Denmark", "nl": "Denemarken"}
+  },
+  "fallback": "Market context may fall back to English only when a localized market example is absent; causal labels may not fall back to a different language."
+}
