@@ -1,5 +1,21 @@
 {
   "title": "Huishoudelijke energietransitie",
-  "intro": "Pas het scenario aan om een indicatieve basislijn met een voorgesteld pad te vergelijken.",
-  "explainer": "Huishoudelijke energietransitie: uitleg van de simulatie"
+  "intro": "Verander een instelling en zie hoe het doorgerekende scenario zich verhoudt tot de uitgangssituatie.",
+  "visual.aria": "Diagram: vanuit de uitgangssituatie leidt een instelling van de gebruiker tot het doorgerekende scenario.",
+  "visual.text": "Uitgangssituatie → instelling van de gebruiker → doorgerekend scenario",
+  "nav.explainer": "Zo leest u de simulatie",
+  "nav.home": "Terug naar het scenario",
+  "explainer": "Huishoudelijke energietransitie: zo leest u de simulatie",
+  "explainer.lead": "De simulatie laat één samenhang in drie stappen zien. Het doorgerekende scenario is een gemodelleerd resultaat, geen gemeten uitkomst voor uw huishouden.",
+  "step1": "De uitgangssituatie beschrijft de referentieomstandigheden waarmee de simulatie rekent.",
+  "step2": "Met een instelling van de gebruiker past u zelf een invoerwaarde van het scenario aan.",
+  "step3": "Het doorgerekende scenario is het gemodelleerde resultaat van die aangepaste instelling.",
+  "marketLabel.NL": "Nederland",
+  "marketLabel.BE": "België",
+  "marketLabel.DE": "Duitsland",
+  "marketLabel.DK": "Denemarken",
+  "market.NL": "Voorbeeld uit Nederland: elektriciteitsverbruik en tariefkeuzes van huishoudens. Dit illustreert een scenario; het is geen voorspelling van uw energierekening.",
+  "market.BE": "Voorbeeld uit België: energiekeuzes van huishoudens. Het model voorspelt geen individueel huishoudelijk resultaat.",
+  "market.DE": "Voorbeeld uit Duitsland: energiekeuzes van huishoudens. Het doorgerekende scenario is gemodelleerd, niet gemeten.",
+  "market.DK": "Voorbeeld uit Denemarken: energiekeuzes van huishoudens. Het doorgerekende scenario is gemodelleerd, niet gemeten."
 }
